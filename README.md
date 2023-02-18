@@ -1,24 +1,20 @@
-### Hi there 👋
+### Hello dev's 👋
 
 
+💻 My name is Rafael Lindner, I'm a Brazilian student, currently studying Internet Systems, with a great interest in programming, I like to practice and maximize my    knowledge! </br></br>
+🌱 I’m currently in 3rd semester of college!
 
-- 🔭 I'm a Brazilian graduate student studying Internet Systems, with a great interest in programming, I like to practice and maximize my knowledge.
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+</br></br></br></br>
 
-</br>
+💬 You can contact me in both english and portuguese, and i will respond as soon as possible ⤵️
+
 
 ## Contat me at:
 
 <div>
-<a href="https://instagram.com/seu-usuário-instagram-aqui" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/seu-usuário-linkedln-aqui" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href = "mailto:contato@seu-usuário-aqui"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.instagram.com/rafael_lindner/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/rafael-lindner-b94827209/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href = "mailto:rafaelindner@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div> 
 
 </br>
