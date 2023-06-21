@@ -9,7 +9,7 @@
 💬 You can contact me in both english and portuguese, and i will respond as soon as possible ⤵️
 
 
-## Contat me at:
+## Contact me at:
 
 <div>
 <a href="https://www.instagram.com/rafael_lindner/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
